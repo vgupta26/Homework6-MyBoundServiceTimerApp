@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework6-MyBoundServiceTimerApp</string>
+    <string name="Activityname">Example of services</string>
+    <string name="StartAcivity">Start Services</string>
+    <string name="StopActivity">Stop Services</string>
+    <string name="timerstart">Start</string>
+    <string name="timerstop">Stop</string>
+    <string name="timerreset">Reset</string>
+</resources>
